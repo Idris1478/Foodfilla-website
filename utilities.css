@@ -1,0 +1,64 @@
+/* utility classes */
+.text-primary {
+  color: rgb(224, 39, 39);
+}
+
+.h-hero {
+  font-size: 5rem;
+  padding: 15px 0px;
+  font-style: italic;
+}
+
+.h-primary {
+  font-size: 3.2rem;
+  margin: 40px 0px 0px 0px;
+  padding: 40px 0px 10px 0px;
+}
+
+.h-secondary {
+  font-size: 2.3rem;
+  padding: 12px;
+}
+
+.center {
+  text-align: center;
+}
+
+.btn-primary {
+  margin-top: 39px;
+  width: 200px;
+  padding: 15px 25px;
+  border: 2px solid rgb(192, 192, 192);
+  background-color: transparent;
+  font-size: 1.2rem;
+  color: rgb(241, 241, 241);
+  font-weight: 600;
+  border-radius: 11px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-primary:hover {
+  color: black;
+  background-color: white;
+
+}
+
+.btn {
+  padding: 0.8rem;
+  background-color: gray;
+  color: #fff;
+  border: none;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn:hover {
+  opacity: 0.8;
+  transform: scale(1.02);
+}
